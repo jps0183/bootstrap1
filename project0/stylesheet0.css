@@ -1,0 +1,9 @@
+body{
+    background-color: lightgrey;
+  }
+h2{text-align: center; color: darkgrey}
+h3{text-align: center; color: darkgrey}
+p{text-align: center; color: white}
+tr{color: white}
+th{color: white}
+td{color: grey}
